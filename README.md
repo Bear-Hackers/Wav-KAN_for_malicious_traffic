@@ -17,6 +17,9 @@ The project implements various wavelet types for network traffic analysis:
 - Performance evaluation metrics (accuracy, precision, recall, F1 score)
 - Visualization of results and model performance
 
+## Model Worfflow
+![workflow](./images/workflow.png)
+
 ## Model Architecture
 ![WavKAN](./images/WavKAN.png)
 
